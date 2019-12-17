@@ -2,10 +2,10 @@
 layout: default
 title: Devoteam
 nom: Devoteam
-metier: TODO
+metier: SIteAMOA, CRM, TransverseDigital, TransverseCyber, TransverseData
 site_web: https://france.devoteam.com/
 description_courte: TODO
-image: pic01.jpg
+image: Devoteam.png
 ---
 
 <header>

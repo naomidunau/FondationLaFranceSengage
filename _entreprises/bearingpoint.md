@@ -2,10 +2,10 @@
 layout: default
 title: BearingPoint
 nom: BearingPoint
-metier: TODO
+metier: CRM, TransverseDigital
 site_web: https://www.bearingpoint.com/fr-ch/
 description_courte: TODO
-image: pic01.jpg
+image: Bearing Point.png
 ---
 
 <header>

@@ -2,10 +2,10 @@
 layout: default
 title: Ecedi
 nom: Ecedi
-metier: TODO
+metier: SiteAMOA, SiteConception, SiteMaintenance, ApplicationAMOA, ApplicationConception, ApplicationMaintenance
 site_web: https://www.ecedi.fr/
 description_courte: TODO
-image: pic01.jpg
+image: Ecedi.png
 ---
 
 <header>

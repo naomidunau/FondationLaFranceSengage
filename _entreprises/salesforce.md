@@ -2,10 +2,10 @@
 layout: default
 title: Salesforce
 nom: Salesforce
-metier: TODO
+metier: CRM
 site_web: https://www.salesforce.com/
 description_courte: TODO
-image: pic01.jpg
+image: Salesforce.png
 ---
 
 <header>

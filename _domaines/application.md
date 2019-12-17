@@ -1,5 +1,5 @@
 ---
-image: pic01.jpg
+image: imageapplication.jpg
 layout: default
 domaine: Application
 nom: Application

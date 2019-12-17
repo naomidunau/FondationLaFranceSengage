@@ -2,11 +2,10 @@
 layout: default
 title: Wavestone
 nom: Wavestone
-field: application
-mission: amoa
+metier: SiteAMOA, ApplicatioAMOA, TransverseDigital, TransverseCyber, TransverseData, Formation
 site_web: https://wavestone.com/
 description_courte: TODO
-image: pic01.jpg
+image: Wavestone.png
 ---
 
 <header>

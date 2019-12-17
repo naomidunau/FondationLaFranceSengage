@@ -2,10 +2,10 @@
 layout: default
 title: Makesense
 nom: Makesense
-metier: TODO
+metier: SiteAMOA, TransverseDigital
 site_web: https://makesense.org/
 description_courte: TODO
-image: pic01.jpg
+image: ms_logo.png
 ---
 
 <header>

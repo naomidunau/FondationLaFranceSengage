@@ -2,10 +2,10 @@
 layout: default
 title: Rézo Social
 nom: Rézo Social
-metier: TODO
+metier: SiteMaintenance
 site_web: https://www.rezosocial.org/
 description_courte: TODO
-image: pic01.jpg
+image: rezosocial.png
 ---
 
 <header>

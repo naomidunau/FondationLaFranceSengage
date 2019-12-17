@@ -2,10 +2,10 @@
 layout: default
 title: Latitudes
 nom: Latitudes
-metier: TODO
+metier: SiteAMOA, SiteConception, ApplicationAMOA, ApplicationConception
 site_web: https://www.latitudes.cc/
 description_courte: TODO
-image: pic01.jpg
+image: Latitudes.png
 ---
 
 <header>

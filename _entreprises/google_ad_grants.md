@@ -2,10 +2,10 @@
 layout: default
 title: Google Ad Grants
 nom: Google Ad Grants
-metier: TODO
+metier: SIteAMOA, TransverseDigital
 site_web: https://www.google.lu/intl/fr/grants
 description_courte: TODO
-image: pic01.jpg
+image: Google Ads Grant.png
 ---
 
 <header>

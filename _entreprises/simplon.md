@@ -2,10 +2,10 @@
 layout: default
 title: Simplon
 nom: Simplon
-metier: ApplicationAMOA, ApplicationConception, SiteAmoa, SiteConception, TransverseCyber, SiteMaintenance, Formation
+metier: ApplicationAMOA, ApplicationConception, SiteAMOA, SiteConception, TransverseCyber, SiteMaintenance, Formation, ApplicationMaintenance, TransverseDigital
 site_web: https://simplon.co
 description_courte: TODO
-image: pic01.jpg
+image: Simplon.png
 ---
 
 <header>

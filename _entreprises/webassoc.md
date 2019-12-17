@@ -2,11 +2,10 @@
 layout: default
 title: Webassoc
 nom: Webassoc
-field: application
-mission: amoa
+metier: SiteAMOA, SiteConception, Formation, TransverseData
 site_web: https://www.webassoc.org/
 description_courte: TODO
-image: pic01.jpg
+image: Webassoc.png
 ---
 
 <header>
