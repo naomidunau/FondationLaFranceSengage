@@ -2,8 +2,8 @@
         <h1>Vous avez un projet digital, quel est-il ?</h1>
         <p>Sélectionnez parmi les 5 cinq grandes catégories ci-dessous, celle qui se rapproche le plus de votre besoin.</p>
 </header>
-{% for doc in site.domaines %}
-    <section class="tiles">
+<section class="tiles">
+    {% for doc in site.domaines %}
         <article class="style1">
             <span class="image">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ doc.image }}" alt="" />
@@ -15,5 +15,5 @@
                 </div>
             </a>
         </article>
-    </section>
-{% endfor %}
+    {% endfor %}
+</section>

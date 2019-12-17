@@ -2,9 +2,9 @@
         <h1>Précisez votre besoin !</h1>
         <p>Cliquez sur chaque vignete pour plus d'informations.</p>
 </header>
-{% for doc in site.metiers %}
-    {% if doc.domaine=page.domaine %}
-        <section class="tiles">
+<section class="tiles">
+    {% for doc in site.metiers %}
+        {% if doc.domaine=page.domaine %}
             <article class="style1">
                 <span class="image">
                     <img src="{{ site.url }}{{ site.baseurl }}/images/{{ doc.image }}" alt="" />
@@ -16,7 +16,6 @@
                     </div>
                 </a>
             </article>
-        </section>
         {% endif %}
-    {% endif %}
-{% endfor %}
+    {% endfor %}
+</section>
