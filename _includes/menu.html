@@ -2,7 +2,7 @@
 	<h2>Menu</h2>
 	<ul>
 
-		{% for page in site.pages %}
+		{% for page in site.entreprises %}
 		{% if page.path == "index.html" %}
 		<li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
 		{% endif %} {% endfor %}
