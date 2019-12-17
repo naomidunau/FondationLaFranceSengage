@@ -55,11 +55,7 @@ site_web: https://simplon.co
 			<td style="background-color:#FFFFFF; width:60%;">
 				<div class="fiche_identite">
 					<p style="font-weight:normal;">
-					Nous sommes un réseau de fabriques numériques et inclusives en France et à l’étranger.
-					Nous avons formé gratuitement plus de 6 200 apprenants depuis 2013 dont près de 40% de femmes et 50% de personnes peu ou pas diplômé.e.s.
-					Nous sommes une entreprise sociale et solidaire qui entend faire du numérique un véritable levier d’inclusion pour révéler des talent.e.s différent.e.s peu représenté.e.s dans le digital et les métiers techniques du numérique.e.s.
-					Nous accompagnons les organisations pour que leur transformation digitale reste inclusive.s, et nous construisons pour elles des sites et des applications performantes et responsables.
-					​​​​​​​De manière indirecte, nous agissons également dans le domaine de la médiation numérique et de l'apprentissage du numérique créatif auprès des enfant.e.s.
+					Nous sommes un réseau de fabriques numériques et inclusives en France et à l’étranger. Nous avons formé gratuitement plus de 6 200 apprenants depuis 2013 dont près de 40% de femmes et 50% de personnes peu ou pas diplômées. Nous sommes une entreprise sociale et solidaire qui entend faire du numérique un véritable levier d’inclusion pour révéler des talents différents peu représentés dans le digital et les métiers techniques du numérique. Nous accompagnons les organisations pour que leur transformation digitale reste inclusive, et nous construisons pour elles des sites et des applications performantes et responsables. De manière indirecte, nous agissons également dans le domaine de la médiation numérique et de l'apprentissage du numérique créatif auprès des enfants.
 					</p>
 				</div>
 			</td>

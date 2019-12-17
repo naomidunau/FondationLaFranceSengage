@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Devoteam
+title: Accenture
 field: application
 mission: amoa
 site_web: https://accenture.com/
