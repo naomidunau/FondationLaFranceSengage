@@ -5,4 +5,4 @@ domaine: Application
 nom: Application
 description_courte: TODO
 ---
-{{% include template_domaine %}}
+{% include template_domaine.html %}

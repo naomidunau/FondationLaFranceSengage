@@ -5,4 +5,4 @@ domaine: CRM
 nom: CRM
 description_courte: TODO
 ---
-{{% include template_domaine.html %}}
+{% include template_domaine.html %}

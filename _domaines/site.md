@@ -5,4 +5,4 @@ nom: Site
 description_courte: TODO
 image: pic01.jpg
 ---
-{{% include template_domaine.html %}}
+{% include template_domaine.html %}
