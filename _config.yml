@@ -36,6 +36,8 @@ collections:
     output: true
   entreprises:
     output: true
+  themes:
+    output: true
 
 # Logo settings
 logo-image-url: images/logo.svg
