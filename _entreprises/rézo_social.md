@@ -29,7 +29,7 @@ image: pic01.jpg
 						</tr>
 						<tr class="contact" style="border: none; background-color:#FFFFFF;">
 							<td style="border: none;display: table-cell;">
-								<img src="{{site.base_url}}/images/email_icon.png" class="image" style="max-width:150%;vertical-align: middle;"/>
+								<img src="{{site.url}}{{site.baseurl}}/images/email_icon.png" class="image" style="max-width:150%;vertical-align: middle;"/>
 							</td>
 							<td style="border: none;">
 								contact@rezosocial.org  
