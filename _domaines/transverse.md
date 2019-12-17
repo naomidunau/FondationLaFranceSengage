@@ -5,4 +5,4 @@ nom: Transverse
 description_courte: TODO
 image: pic01.jpg
 ---
-{{% include template_domaine %}}
+{{% include template_domaine.html %}}

@@ -6,4 +6,4 @@ domaine: CRM
 metier: CRM
 description: TODO
 ---
-{% include template_metier %}
+{% include template_metier.html %}

@@ -6,4 +6,4 @@ description: TODO
 domaine: Transverse
 metier: Data
 ---
-{% include template_metier %}
+{% include template_metier.html %}
