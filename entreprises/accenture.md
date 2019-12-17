@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Wavestone
+title: Devoteam
 field: application
 mission: amoa
 site_web: https://accenture.com/
@@ -22,7 +22,7 @@ site_web: https://accenture.com/
 								<img src="" class="fiche_icone"/>
 							</td>
 							<td style="border: none;">
-								<a href="https://simplon.co"> https://accenture.com/ </a>
+								<a href="https://accenture.com"> https://accenture.com/ </a>
 							</td>
 						</tr>
 						<tr class="contact" style="border: none; background-color:#FFFFFF;">
@@ -68,7 +68,7 @@ site_web: https://accenture.com/
 		<p> Accompagnement sur l’ensemble du projet digital, depuis le cadrage du besoin jusqu’à la réalisation. Candidature via Share IT.</p>
 		<strong>CRM et ERP</strong>
 		<ul><li> Accompagnement bout en bout pour la mise en place d’un CRM Salesforce : Cadrage, cahier des charges, intégration, paramétrage, déploiement. Bonne connaissance du pack non profit.</li>
-		<li> ccompagnement à la mise en œuvre d’ERP (comptabilité, Paie, facturation…) de bout en bout.</li></ul>
+		<li> Asccompagnement à la mise en œuvre d’ERP (comptabilité, Paie, facturation…) de bout en bout.</li></ul>
 		<strong>Architecture SI</strong>
 		<p>Accompagnement à la définition d’une feuille de route de transformation architecturale depuis le receuil des besoins jussqu’à la priorisation des chantier à réaliser.</p>
 		<strong>Projets Data et IoT</strong>
