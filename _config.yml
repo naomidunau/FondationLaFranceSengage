@@ -29,6 +29,14 @@ description: La France s'Engage vitrine website.
 baseurl: "/FondationLaFranceSengage" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
+collections:
+  domaines:
+    output: true
+  metiers:
+    output: true
+  entreprises:
+    output: true
+
 # Logo settings
 logo-image-url: images/logo.svg
 font-awesome-icon-logo:

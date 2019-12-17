@@ -1,13 +1,13 @@
+<header>
+        <h1>Précisez votre besoin !</h1>
+        <p>Cliquez sur chaque vignete pour plus d'informations.</p>
+</header>
 {% for doc in documents %}
     {% if doc.collection=metiers and doc.domaine=page.domaine %}
         {% for doc2 in documents %}
         {% if doc.domaine=doc2.domaine and doc.nom=doc2.nom %}
             {% include template_metier %}
         {% else %}
-        <header>
-                <h1>Précisez votre besoin !</h1>
-                <p>Cliquez sur chaque vignete pour plus d'informations.</p>
-        </header>
         <section class="tiles">
             <article class="style1">
                 <span class="image">
