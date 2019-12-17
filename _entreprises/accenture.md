@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Accenture
-title: Accenture
 nom: Accenture
 metier: CRM, TransverseData, TransverseCyber, SiteAMOA
 site_web: https://accenture.com/

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Altran
+nom: Altran
 metier: TODO
 site_web: https://www.altran.com/ch/fr/
 description_courte: TODO
