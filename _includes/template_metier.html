@@ -5,7 +5,7 @@
 
 <section class="contacts">
     {% for doc in site.entreprises %}
-        {% if doc.domaine contains page.domaine and doc.metier contains page.metier %}
+        {% if doc.metier contains page.domaine and doc.metier contains page.metier %}
             <article class="style1">	
                 <span class="contact_image">
                     <img src="{{ site.url }}{{ site.baseurl }}/images/{{ doc.image }}" alt="" />
