@@ -1,8 +1,8 @@
 <nav id="menu">
-	<h2>Menu</h2>
+	<h2>Partenaires</h2>
 	<ul>
-		{% for page in site.entreprises %}
-			<li><a href="{{ site.url }}{{ site.base_url }}{{ page.url }}">{{ page.nom }}</a></li>
+		{% for doc in site.entreprises %}
+			<li><a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.nom }}</a></li>
 		{% endfor %}
 	</ul>
 </nav>
