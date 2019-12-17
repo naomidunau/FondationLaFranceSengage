@@ -1,0 +1,22 @@
+<header>
+    <h1>Voici les acteurs que nous avons trouvé...</h1>
+    <p>Cliquez sur chaque vignete pour plus d'informations.</p>
+</header>
+
+<section class="contacts">
+    {% for doc in site.documents %}
+        {% if doc.collection=entreprises and doc.domaine contains page.domaine and doc.metier contains page.metier %}
+            <article class="style1">	
+                <span class="contact_image">
+                    <img src="{{ site.url }}{{ site.baseurl }}/images/{{ doc.image }}" alt="" />
+                </span>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">
+                    <h2>{{ doc.nom }}</h2>
+                    <div class="content">
+                        <p>{{ doc.description_courte }}</p>
+                    </div>
+                </a>
+            </article>
+        {% endif %}
+    {% endfor %}
+</section>
