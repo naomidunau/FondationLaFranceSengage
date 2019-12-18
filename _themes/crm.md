@@ -1,6 +1,6 @@
 ---
 layout: default
-image: pic01.jpg
+image: CRM.jpg
 nom: CRM
 domaine: CRM
 metier: CRM

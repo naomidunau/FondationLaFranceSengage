@@ -5,7 +5,7 @@ nom: Rézo Social
 metier: SiteMaintenance
 site_web: https://www.rezosocial.org/
 description_courte: TODO
-image: rezosocial.png
+image: rezosocial2.png
 ---
 
 <header>

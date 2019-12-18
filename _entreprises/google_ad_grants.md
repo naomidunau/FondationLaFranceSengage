@@ -5,7 +5,7 @@ nom: Google Ad Grants
 metier: SIteAMOA, TransverseDigital
 site_web: https://www.google.lu/intl/fr/grants
 description_courte: TODO
-image: Google Ads Grant.png
+image: Google Ads Grant2.png
 ---
 
 <header>

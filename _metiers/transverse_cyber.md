@@ -1,6 +1,6 @@
 ---
 layout: default
-image: pic01.jpg
+image: imagecyber2.jpg
 nom: Cybersécurité
 description: TODO
 domaine: Transverse

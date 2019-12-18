@@ -5,7 +5,7 @@ nom: Wavestone
 metier: SiteAMOA, ApplicatioAMOA, TransverseDigital, TransverseCyber, TransverseData, Formation
 site_web: https://wavestone.com/
 description_courte: TODO
-image: Wavestone.png
+image: Wavestone2.png
 ---
 
 <header>

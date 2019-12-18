@@ -5,7 +5,7 @@ nom: Latitudes
 metier: SiteAMOA, SiteConception, ApplicationAMOA, ApplicationConception
 site_web: https://www.latitudes.cc/
 description_courte: TODO
-image: Latitudes.png
+image: Latitudes2.png
 ---
 
 <header>

@@ -5,7 +5,7 @@ nom: Makesense
 metier: SiteAMOA, TransverseDigital
 site_web: https://makesense.org/
 description_courte: TODO
-image: ms_logo.png
+image: ms_logo2.png
 ---
 
 <header>

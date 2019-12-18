@@ -1,6 +1,6 @@
 ---
 layout: default
-image: pic01.jpg
+image: imagemaintenance2.jpg
 nom: Administration & Maintenance
 domaine: Application
 metier: Maintenance

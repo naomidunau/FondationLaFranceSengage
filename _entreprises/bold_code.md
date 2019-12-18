@@ -6,7 +6,7 @@ metier: SiteAMOA, SiteConception, SiteMaintenance
 site_web: https://boldcode.io/
 description_courte: Accenture est un cabinet de conseil en IT.
 description_courte: TODO
-image: boldcode.png
+image: boldcode2.png
 ---
 
 <header>

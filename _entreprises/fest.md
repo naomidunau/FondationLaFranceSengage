@@ -5,7 +5,7 @@ nom: FEST
 metier: SiteAMOA, ApplicationAMOA, TranverseDigital
 site_web: http://festech.org/
 description_courte: TODO
-image: FEST.png
+image: FEST2.png
 ---
 
 <header>
