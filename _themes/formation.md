@@ -1,6 +1,6 @@
 ---
 layout: default
-image: pic01.jpg
+image: imageformation2.jpg
 nom: Formation
 domaine: Formation
 metier: Formation

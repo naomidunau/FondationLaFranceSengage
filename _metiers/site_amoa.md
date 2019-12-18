@@ -1,6 +1,6 @@
 ---
 layout: default
-image: pic01.jpg
+image: imageAMOA2.jpg
 nom: Accompagnement
 domaine: Site
 metier: AMOA

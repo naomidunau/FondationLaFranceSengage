@@ -5,7 +5,7 @@ nom: Data Transition
 metier: TransverseCyber, Formation
 site_web: https://datatransition.net/
 description_courte: TODO
-image: DataTransition.png
+image: DataTransition2.png
 ---
 
 <header>

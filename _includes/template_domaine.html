@@ -5,7 +5,7 @@
 <section class="tiles">
     {% for doc in site.metiers %}
         {% if doc.domaine contains page.domaine %}
-            <article class="style1">
+            <article class="style{{ forloop.index | plus:1 }}">
                 <span class="image">
                     <img src="{{ site.url }}{{ site.baseurl }}/images/{{ doc.image }}" alt="" />
                 </span>

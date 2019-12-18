@@ -4,7 +4,7 @@
 </header>
 <section class="tiles">
     {% for doc in site.themes %}
-        <article class="style1">
+        <article class="style{{ forloop.index | plus:1 }}">
             <span class="image">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ doc.image }}" alt="" />
             </span>
@@ -17,7 +17,7 @@
         </article>
     {% endfor %}
     {% for doc in site.domaines %}
-        <article class="style1">
+        <article class="style{{ forloop.index | plus:3 }}">
             <span class="image">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ doc.image }}" alt="" />
             </span>

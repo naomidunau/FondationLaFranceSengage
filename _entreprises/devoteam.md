@@ -5,7 +5,7 @@ nom: Devoteam
 metier: SIteAMOA, CRM, TransverseDigital, TransverseCyber, TransverseData
 site_web: https://france.devoteam.com/
 description_courte: TODO
-image: Devoteam.png
+image: Devoteam2.png
 ---
 
 <header>

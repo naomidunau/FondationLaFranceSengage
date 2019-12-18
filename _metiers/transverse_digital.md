@@ -1,6 +1,6 @@
 ---
 layout: default
-image: pic01.jpg
+image: imagestratégie2.jpg
 nom: Stratégie Digitale
 description: TODO
 domaine: Transverse

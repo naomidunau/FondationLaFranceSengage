@@ -3,6 +3,6 @@ layout: default
 domaine: Transverse
 nom: Transverse
 description_courte: TODO
-image: pic01.jpg
+image: imagetransverse2.jpg
 ---
 {% include template_domaine.html %}

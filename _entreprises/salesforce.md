@@ -5,7 +5,7 @@ nom: Salesforce
 metier: CRM
 site_web: https://www.salesforce.com/
 description_courte: TODO
-image: Salesforce.png
+image: Salesforce2.png
 ---
 
 <header>

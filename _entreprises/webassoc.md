@@ -5,7 +5,7 @@ nom: Webassoc
 metier: SiteAMOA, SiteConception, Formation, TransverseData
 site_web: https://www.webassoc.org/
 description_courte: TODO
-image: Webassoc.png
+image: Webassoc2.png
 ---
 
 <header>

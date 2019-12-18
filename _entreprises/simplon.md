@@ -5,7 +5,7 @@ nom: Simplon
 metier: ApplicationAMOA, ApplicationConception, SiteAMOA, SiteConception, TransverseCyber, SiteMaintenance, Formation, ApplicationMaintenance, TransverseDigital
 site_web: https://simplon.co
 description_courte: TODO
-image: Simplon.png
+image: Simplon2.png
 ---
 
 <header>
