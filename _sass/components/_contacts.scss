@@ -17,6 +17,7 @@
 		margin: ($gutter * -1) 0 0 ($gutter * -1);
 
 		article {
+			align-items: center;
 			@include vendor('transition', (
 				'transform #{$duration} #{$ease}',
 				'opacity #{$duration} #{$ease}'
@@ -192,6 +193,7 @@
 
 		body.is-loading & {
 			article {
+				align-items: center;
 				@include vendor('transform', 'scale(0.9)');
 				opacity: 0;
 			}
@@ -199,6 +201,7 @@
 
 		body.is-touch & {
 			article {
+				align-items: center;
 				.content {
 					max-height: 15em;
 					opacity: 1;
@@ -212,6 +215,7 @@
 			margin: ($gutter * -1) 0 0 ($gutter * -1);
 
 			article {
+				align-items: center;
 				width: calc(#{(100% / 5)} - #{$gutter * 1});
 				margin: $gutter 0 0 $gutter;
 			}
