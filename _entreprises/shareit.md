@@ -2,10 +2,10 @@
 layout: default
 title: Share IT
 nom: Share IT
-metier: TODO
+metier: SiteAMOA, SiteConception, ApplicationAMOA, ApplicationConception, Formation
 site_web: https://share-it.io/
 description_courte: TODO
-image: pic01.jpg
+image: Shareit.png
 ---
 
 <header>

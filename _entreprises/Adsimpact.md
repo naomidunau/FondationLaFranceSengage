@@ -2,10 +2,10 @@
 layout: default
 title: Adsimpact
 nom: Adsimpact
-metier: TODO
+metier: SiteAMOA
 site_web: https://www.adsimpact.org/
 description_courte: TODO
-image: pic01.jpg
+image: Adsimpact.png
 ---
 
 <header>

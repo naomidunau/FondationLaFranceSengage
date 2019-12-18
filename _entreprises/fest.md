@@ -2,10 +2,10 @@
 layout: default
 title: FEST
 nom: FEST
-metier: TODO
+metier: SiteAMOA, ApplicationAMOA, TranverseDigital
 site_web: http://festech.org/
 description_courte: TODO
-image: pic01.jpg
+image: FEST.png
 ---
 
 <header>

@@ -2,10 +2,10 @@
 layout: default
 title: Numerik-ea
 nom: Numerik-ea
-metier: TODO
+metier: SiteAMOA, SiteConception, SiteMaintenance, ApplicationAMOA, ApplicationCOnception, ApplicationMaintenance, CRM, TransverseCyber
 site_web: https://www.numerik-ea.fr/
 description_courte: TODO
-image: pic01.jpg
+image: Numerik-ea.png
 ---
 
 <header>

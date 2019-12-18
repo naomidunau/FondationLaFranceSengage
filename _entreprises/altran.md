@@ -2,10 +2,10 @@
 layout: default
 title: Altran
 nom: Altran
-metier: TODO
+metier: SiteAMOA, ApplicationAMOA, ApplicationConception, TransverseDigital, TransverseCyber, TransverseData
 site_web: https://www.altran.com/ch/fr/
 description_courte: TODO
-image: pic01.jpg
+image: Altran.png
 ---
 
 <header>

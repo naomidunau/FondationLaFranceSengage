@@ -2,10 +2,10 @@
 layout: default
 title: Marché Citoyen
 nom: Marché Citoyen
-metier: TODO
+metier: SiteAMOA, TransverseDigital
 site_web: https://www.les-mc.com/
 description_courte: TODO
-image: pic01.jpg
+image: Les marchés citoyens.png
 ---
 
 <header>

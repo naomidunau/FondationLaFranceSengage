@@ -2,10 +2,10 @@
 layout: default
 title: Data Transition
 nom: Data Transition
-metier: TODO
+metier: TransverseCyber, Formation
 site_web: https://datatransition.net/
 description_courte: TODO
-image: pic01.jpg
+image: DataTransition.png
 ---
 
 <header>

@@ -18,9 +18,11 @@
     {% endfor %}
     {% for doc in site.domaines %}
         <article class="style1">
-            <span class="image">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/{{ doc.image }}" alt="" />
-            </span>
+            <div class="square">
+                <span class="image squarecontent">
+                    <img src="{{ site.url }}{{ site.baseurl }}/images/{{ doc.image }}" alt="" />
+                </span>
+            </div>
             <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">
                 <h2>{{ doc.nom }}</h2>
                 <div class="content">

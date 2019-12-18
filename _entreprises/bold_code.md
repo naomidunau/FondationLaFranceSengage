@@ -2,11 +2,11 @@
 layout: default
 title: Bold Code
 nom: Bold Code
-metier: TODO
+metier: SiteAMOA, SiteConception, SiteMaintenance
 site_web: https://boldcode.io/
 description_courte: Accenture est un cabinet de conseil en IT.
 description_courte: TODO
-image: pic01.jpg
+image: boldcode.png
 ---
 
 <header>
