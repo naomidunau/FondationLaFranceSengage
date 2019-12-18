@@ -5,7 +5,7 @@ nom: Altran
 metier: SiteAMOA, ApplicationAMOA, ApplicationConception, TransverseDigital, TransverseCyber, TransverseData
 site_web: https://www.altran.com/ch/fr/
 description_courte: TODO
-image: Altran.png
+image: Altran2.png
 ---
 
 <header>

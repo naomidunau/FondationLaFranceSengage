@@ -5,7 +5,7 @@ nom: BearingPoint
 metier: CRM, TransverseDigital
 site_web: https://www.bearingpoint.com/fr-ch/
 description_courte: TODO
-image: Bearing Point.png
+image: Bearing Point2.png
 ---
 
 <header>

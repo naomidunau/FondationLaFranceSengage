@@ -5,7 +5,7 @@ nom: Accenture
 metier: CRM, TransverseData, TransverseCyber, SiteAMOA, ApplicationAMOA, TransverseDigital
 site_web: https://accenture.com/
 description_courte: Accenture est un cabinet de conseil en IT.
-image: Accenture.png
+image: Accenture2.png
 ---
 
 <header>
