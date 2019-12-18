@@ -3,10 +3,10 @@
     <p>Cliquez sur chaque vignette pour plus d'informations.</p>
 </header>
 
-<section class="contacts">
+<section class="tiles">
     {% for doc in site.entreprises %}
         {% if doc.metier contains page.domaine and doc.metier contains page.metier %}
-            <article class="style{{ forloop.index | plus:1 }}">	
+            <article>	
                 <span class="image">
                     <img src="{{ site.url }}{{ site.baseurl }}/images/{{ doc.image }}" alt="" />
                 </span>
